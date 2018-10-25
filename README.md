@@ -23,5 +23,7 @@ There are five classes
 ![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot%20(329).png "MiniProject")
 
 ## RDBMS Side
+Screenshot of table list and tables
+
 ![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot%20(331).png "MiniProject")
 
