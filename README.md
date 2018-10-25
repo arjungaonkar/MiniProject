@@ -41,3 +41,6 @@ Queries used in miniproject database:
 
 4.**Delete account**
 >delete from PLAYER where Username=%s
+
+5.**Update selected skin**
+>update PLAYER set SkinIDuse=%s where Username=%s and exists (select SkinID from SKINPURCHASED where SkinID=%s)
