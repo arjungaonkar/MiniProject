@@ -52,5 +52,5 @@ Queries used in miniproject database:
 
 >if failure,update PLAYER set credit=credit+(select price from SKIN where SkinID=%s) where username='%s'
 
-7.***Update score**
+7.**Update score**
 >update PLAYER set Score=Score+100,Credit=Credit+10 where Username='%s'
