@@ -12,4 +12,4 @@ There are five classes
 3.Client:It holds Tcp socket object,client Ip address which is used for UDP,username,play(boolean,true->ready to play),opponent username.
          Its object is created once logged in or registered,runs as separate thread,listening for data.
 4.JDBC:Database connectivity
-5.execute:This class is the main class that connects all the other four class,it contain actionFunction method which is called by TcpServer,UdpServer and Client class 
+5.execute:This class is the main class that connects all the other four class,it contains actionFunction method which is called by                   TcpServer,UdpServer and Client class
