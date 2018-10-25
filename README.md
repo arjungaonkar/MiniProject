@@ -28,5 +28,6 @@ Screenshot of table list and tables
 ![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot%20(331).png "MiniProject")
 
 Queries used in miniproject database:
+
 1.
 
