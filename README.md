@@ -21,3 +21,8 @@ There are five classes
 5.execute:This class is the main class that connects all the other four classes,it contains actionFunction method which is called by                   TcpServer,UdpServer and Client class
 
 ![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot%20(329).png "MiniProject")
+
+## RDBMS Side
+Screenshot of table list and tables
+![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot%20(331).png "MiniProject")
+
