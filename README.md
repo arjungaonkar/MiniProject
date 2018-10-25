@@ -19,3 +19,5 @@ There are five classes
 4.JDBC:Database connectivity
 
 5.execute:This class is the main class that connects all the other four classes,it contains actionFunction method which is called by                   TcpServer,UdpServer and Client class
+
+![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot%20(329).png "MiniProject")
