@@ -38,3 +38,6 @@ Queries used in miniproject database:
 
 3.**Registration default skin**
 >insert into SKINPURCHASED(Username) values(%s)
+
+4.**Delete account**
+>delete from PLAYER where Username=%s
