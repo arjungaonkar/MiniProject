@@ -1,5 +1,5 @@
 # JAVA and RDBMS MINIPROJECT
-Unity is used as front end which is a multiplayer game
+Unity is used as front end which is a multiplayer game,java as backend,mysql database
 ![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot_20181025-190921.png "MiniProject")
 ## Java Side
 There are five classes
