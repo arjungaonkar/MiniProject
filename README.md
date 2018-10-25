@@ -1,5 +1,4 @@
-# MiniProject
-java and rdbms miniproject
+## JAVA and RDBMS MINIPROJECT
 There are five classes
 1.TcpServer
 2.UdpServer
