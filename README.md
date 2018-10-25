@@ -50,6 +50,7 @@ Queries used in miniproject database:
 
 >insert into SKINPURCHASED values('%s',%s)
 
->if failure
-<Enter>update PLAYER set credit=credit+(select price from SKIN where SkinID=%s) where username='%s'
+>if failure,update PLAYER set credit=credit+(select price from SKIN where SkinID=%s) where username='%s'
 
+7.***Update score**
+>update PLAYER set Score=Score+100,Credit=Credit+10 where Username='%s'
