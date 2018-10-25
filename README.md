@@ -33,5 +33,6 @@ Queries used in miniproject database:
 1.For login verification,if returned table has one row then valid,else invalid
 >select Score,Credit,SkinIDuse from PLAYER where Username=%s and Password=%s
 
-2.   
+2.For login verification,if returned table has one row then valid,else invalid
+>select Score,Credit,SkinIDuse from PLAYER where Username=%s and Password=%s
 
