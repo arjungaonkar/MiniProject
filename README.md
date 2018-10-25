@@ -44,3 +44,12 @@ Queries used in miniproject database:
 
 5.**Update selected skin**
 >update PLAYER set SkinIDuse=%s where Username=%s and exists (select SkinID from SKINPURCHASED where SkinID=%s)
+
+6.**Buy skin**,subtract the credit,if credit<0 then add the credit back and display no credit
+>update PLAYER set credit=credit-(select price from SKIN where SkinID=%s) where username='%s' and credit-(select price from skin where skinid=%s)>=0
+
+>insert into SKINPURCHASED values('%s',%s)
+
+if failure
+>update PLAYER set credit=credit+(select price from SKIN where SkinID=%s) where username='%s'
+
