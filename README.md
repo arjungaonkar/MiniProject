@@ -1,6 +1,8 @@
 # JAVA and RDBMS MINIPROJECT
 Unity is used as front end which is a multiplayer game,java is used as backend,mysql database
-![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot_20181025-190921.png "MiniProject")
+[![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot_20181025-190921.png)](https://www.youtube.com/watch?v=UixU1s_hCjo&feature=youtu.be)
+click to watch video
+
 ## Java Side
 There are five classes
 1.TcpServer
@@ -54,5 +56,5 @@ Queries used in miniproject database:
 
 7.**Update score**
 >update PLAYER set Score=Score+100,Credit=Credit+10 where Username='%s'
-[![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot_20181025-190921.png)](https://www.youtube.com/watch?v=UixU1s_hCjo&feature=youtu.be)
+
 
