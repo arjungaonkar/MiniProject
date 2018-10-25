@@ -36,3 +36,5 @@ Queries used in miniproject database:
 2.**Registration**
 >insert into PLAYER(Username,Password) values(%s,%s)
 
+3.**Registration default skin**
+>insert into SKINPURCHASED(Username) values(%s)
