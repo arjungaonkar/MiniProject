@@ -22,6 +22,7 @@ There are five classes
 
 ![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot%20(329).png "MiniProject")
 
+[Source code of Java side](https://github.com/arjungaonkar/MiniProject/tree/master/Java)
 ## RDBMS Side
 Screenshot of table list and tables
 
