@@ -54,3 +54,5 @@ Queries used in miniproject database:
 
 7.**Update score**
 >update PLAYER set Score=Score+100,Credit=Credit+10 where Username='%s'
+[![alt text](https://github.com/arjungaonkar/MiniProject/blob/master/images/Screenshot%20(331).png)](https://www.youtube.com/watch?v=UixU1s_hCjo&feature=youtu.be)
+
