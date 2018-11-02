@@ -59,6 +59,7 @@ Queries used in miniproject database:
 
 8.**Update gamestat**
 >insert into GAMESTAT(Player1,Player2,Duration) values('%s','%s',%d)
+
 >update GAMESTAT set winner='%s',Duration=Duration-%d where (player1='%s' or player2='%s') and winner is null
 
 
